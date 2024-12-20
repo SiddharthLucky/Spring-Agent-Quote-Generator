@@ -13,9 +13,6 @@
 
 # Spring Boot files
 target/
-bin/
-.mvn/
-.gradle/
 
 # Intellij Idea
 .idea/
@@ -34,10 +31,6 @@ bin/
 Thumbs.db
 
 # Gradle
-.gradle
 build/
 
 # Maven
-target/
-pom.xml.tag
-pom.xml.backup
