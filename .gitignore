@@ -18,6 +18,7 @@ target/
 .idea/
 *.iml
 *.iws
+.vscode/
 
 # Eclipse
 .settings/
